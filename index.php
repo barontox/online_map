@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>FOSS 4gLunch</title>
+		<title>FOSS 4 G NA</title>
 		<meta name="AUTHOR" content="Olaf Hannemann" >
 		<meta http-equiv="content-type" content="text/html; charset=utf-8">
 		<meta name="description" content="OpenNauticalChart offers free seacharts for everybody. This charts are usable (offline) with several ship-plotters and Navigation-equipement on board.">
