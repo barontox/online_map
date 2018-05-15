@@ -6,7 +6,7 @@
        "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 	<head>
-		<title>Day One OVER- Weather</title>
+		<title>FOSS 4g NA - Weather</title>
 		<meta name="AUTHOR" content="Olaf Hannemann" >
 		<meta http-equiv="content-type" content="text/html; charset=utf-8">
 		<meta name="date" content="2016-03-08">
